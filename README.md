@@ -1,5 +1,5 @@
 # datascience
-Thank you for taking the time to review my Data Analyst Portfolio. I am excited to present my diverse range of projects that highlight my proficiency in data analytics and my ability to derive meaningful insights from complex datasets.
+Thank you for taking the time to review my Data Portfolio. I am excited to present my diverse range of projects that highlight my proficiency in data analytics and my ability to derive meaningful insights from complex datasets.
 
 Having spent seven years as a frontend developer, I bring a unique perspective to data analysis, combining a strong foundation in programming with a keen eye for design and user experience. This background has allowed me to not only excel in the technical aspects of data analytics but also to communicate findings effectively through visually appealing dashboards and reports.
 
